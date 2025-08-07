@@ -15,7 +15,7 @@ This was just a simple exercise to test my React skills; this "site" is not fini
 ## Setup
 1. Clone repo:
    ```bash
-   git clone https://github.com/zacisyourmaster/react-business-card.git
+   git clone https://github.com/zacisyourmaster/zach-business-card.git
 
 # Getting Started
 Install the dependencies and run the project
